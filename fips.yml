@@ -2,6 +2,10 @@
 # fips-tetwild
 #
 ---
+imports:
+    libigl:
+        git:    https://github.com/MeshGeometry/fips-libigl.git
+        branch: design-space-fix-changes
 exports:
     header-dirs: 
       - TetWild/src

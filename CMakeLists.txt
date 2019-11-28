@@ -1,3 +1,5 @@
+set_property(GLOBAL PROPERTY ALLOW_DUPLICATE_CUSTOM_TARGETS 1)
+
 if (NOT FIPS_IMPORT)
     cmake_minimum_required(VERSION 2.8)
     get_filename_component(FIPS_ROOT_DIR "../fips" ABSOLUTE)
