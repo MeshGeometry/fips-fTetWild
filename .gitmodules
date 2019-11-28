@@ -1,0 +1,3 @@
+[submodule "fTetWild"]
+	path = fTetWild
+	url = git@github.com:MeshGeometry/fTetWild.git

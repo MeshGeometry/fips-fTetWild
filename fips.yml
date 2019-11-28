@@ -1,0 +1,9 @@
+#
+# fips-tetwild
+#
+---
+exports:
+    header-dirs: 
+      - TetWild/src
+    modules:
+      fTetWild: fTetWild/
