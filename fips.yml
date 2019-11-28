@@ -8,6 +8,6 @@ imports:
         branch: design-space-fix-changes
 exports:
     header-dirs: 
-      - TetWild/src
+      - fTetWild/src
     modules:
       fTetWild: fTetWild/
